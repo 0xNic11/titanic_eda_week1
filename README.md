@@ -20,8 +20,9 @@ This EDA serves as the foundation for more advanced modeling tasks later in the 
 
 ---
 
-## 📂 Repository Structure
 
+## 📂 Repository Structure
+```
 titanic_eda_week1/
 │
 ├── data/
@@ -31,3 +32,4 @@ titanic_eda_week1/
 │
 ├── README.md
 └── requirements.txt
+```
