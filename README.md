@@ -20,8 +20,9 @@ This EDA serves as the foundation for more advanced modeling tasks later in the 
 
 ---
 
-## 📂 Repository Structure
 
+## 📂 Repository Structure
+```
 titanic_eda_week1/
 │
 ├── data/
@@ -31,6 +32,7 @@ titanic_eda_week1/
 │
 ├── README.md
 └── requirements.txt
+<<<<<<< HEAD
 
 **Notes:**
 - The `data/` folder contains the Titanic dataset.
@@ -92,3 +94,6 @@ Data Science & Machine Learning Engineer in training
 ---
 
 Thank you for viewing this project!
+=======
+```
+>>>>>>> e5caabc8f5257c968346062668258a742d042108
