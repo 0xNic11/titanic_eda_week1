@@ -32,7 +32,7 @@ titanic_eda_week1/
 │
 ├── README.md
 └── requirements.txt
-<<<<<<< HEAD
+```
 
 **Notes:**
 - The `data/` folder contains the Titanic dataset.
